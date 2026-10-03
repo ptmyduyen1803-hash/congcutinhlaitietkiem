@@ -5,7 +5,7 @@ st.set_page_config(
     page_title="Công Cụ Tính Lãi Tiết Kiệm Ngân Hàng_Phạm Thuỳ Mỹ Duyên",
     page_icon="🏦",
     st.image("logo.jpg")   
-    layout="centered")
+    layout=("centered")
 
 st.title("🏦 Công Cụ Tính Lãi Gửi Tiết Kiệm Ngân Hàng_Phạm Thuỳ Mỹ Duyên")
 st.write("Nhập các thông tin bên dưới để tính toán tiền lãi dự kiến nhận được.")

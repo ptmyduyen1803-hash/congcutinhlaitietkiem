@@ -2,7 +2,7 @@ import streamlit as st
 
 # Cấu hình trang Streamlit
 st.set_page_config
-    page_title="Công Cụ Tính Lãi Tiết Kiệm Ngân Hàng_Phạm Thuỳ Mỹ Duyên",
+    page_title="Công Cụ Tính Lãi Tiết Kiệm Ngân Hàng",
     page_icon="🏦",
     st.image("logo.jpg")   
     layout="centered"
